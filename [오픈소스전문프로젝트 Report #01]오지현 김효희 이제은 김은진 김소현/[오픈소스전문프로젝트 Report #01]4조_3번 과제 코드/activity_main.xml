@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+    <LinearLayout android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/strBtn" android:background="#A6A6A6" android:id="@+id/button1"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/strBtn1" android:background="#1DDB16" android:id="@+id/button2" android:baselineAligned="false"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/strBtn2" android:background="#FF0000" android:id="@+id/button3"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/strBtn3" android:background="#FFE400" android:id="@+id/button4" android:baselineAligned="false"/>
+
+</LinearLayout>
